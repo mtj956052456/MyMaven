@@ -9,6 +9,6 @@ package com.example.mylibrary;
 public class MyUtil {
 
     public void test(){
-
+        System.out.println("");
     }
 }
